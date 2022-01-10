@@ -36,6 +36,10 @@
         "source": "D:\\DadwalSocialMedia\\app\\src\\main\\res\\layout\\item_comment.xml"
     },
     {
+        "merged": "D:\\DadwalSocialMedia\\app\\build\\intermediates\\merged_res\\debug\\drawable_logout_button.xml.flat",
+        "source": "D:\\DadwalSocialMedia\\app\\src\\main\\res\\drawable\\logout_button.xml"
+    },
+    {
         "merged": "D:\\DadwalSocialMedia\\app\\build\\intermediates\\merged_res\\debug\\drawable_feed_icon.xml.flat",
         "source": "D:\\DadwalSocialMedia\\app\\src\\main\\res\\drawable\\feed_icon.xml"
     },
@@ -44,12 +48,12 @@
         "source": "D:\\DadwalSocialMedia\\app\\src\\main\\res\\drawable\\add_icon.xml"
     },
     {
-        "merged": "D:\\DadwalSocialMedia\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_main.xml.flat",
-        "source": "D:\\DadwalSocialMedia\\app\\src\\main\\res\\layout\\activity_main.xml"
-    },
-    {
         "merged": "D:\\DadwalSocialMedia\\app\\build\\intermediates\\merged_res\\debug\\drawable_bubble_in.xml.flat",
         "source": "D:\\DadwalSocialMedia\\app\\src\\main\\res\\drawable\\bubble_in.xml"
+    },
+    {
+        "merged": "D:\\DadwalSocialMedia\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_main.xml.flat",
+        "source": "D:\\DadwalSocialMedia\\app\\src\\main\\res\\layout\\activity_main.xml"
     },
     {
         "merged": "D:\\DadwalSocialMedia\\app\\build\\intermediates\\merged_res\\debug\\drawable_lock_icon.xml.flat",
@@ -82,6 +86,10 @@
     {
         "merged": "D:\\DadwalSocialMedia\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_comments.xml.flat",
         "source": "D:\\DadwalSocialMedia\\app\\src\\main\\res\\layout\\activity_comments.xml"
+    },
+    {
+        "merged": "D:\\DadwalSocialMedia\\app\\build\\intermediates\\merged_res\\debug\\drawable_button_background.xml.flat",
+        "source": "D:\\DadwalSocialMedia\\app\\src\\main\\res\\drawable\\button_background.xml"
     },
     {
         "merged": "D:\\DadwalSocialMedia\\app\\build\\intermediates\\merged_res\\debug\\drawable_person_icon.xml.flat",
@@ -164,12 +172,12 @@
         "source": "D:\\DadwalSocialMedia\\app\\src\\main\\res\\layout\\activity_create_post.xml"
     },
     {
-        "merged": "D:\\DadwalSocialMedia\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher.webp.flat",
-        "source": "D:\\DadwalSocialMedia\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.webp"
-    },
-    {
         "merged": "D:\\DadwalSocialMedia\\app\\build\\intermediates\\merged_res\\debug\\drawable_bubble_out.xml.flat",
         "source": "D:\\DadwalSocialMedia\\app\\src\\main\\res\\drawable\\bubble_out.xml"
+    },
+    {
+        "merged": "D:\\DadwalSocialMedia\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "D:\\DadwalSocialMedia\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.webp"
     },
     {
         "merged": "D:\\DadwalSocialMedia\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
@@ -186,6 +194,10 @@
     {
         "merged": "D:\\DadwalSocialMedia\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_register.xml.flat",
         "source": "D:\\DadwalSocialMedia\\app\\src\\main\\res\\layout\\fragment_register.xml"
+    },
+    {
+        "merged": "D:\\DadwalSocialMedia\\app\\build\\intermediates\\merged_res\\debug\\drawable_follow_button.xml.flat",
+        "source": "D:\\DadwalSocialMedia\\app\\src\\main\\res\\drawable\\follow_button.xml"
     },
     {
         "merged": "D:\\DadwalSocialMedia\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_search.xml.flat",
@@ -226,6 +238,10 @@
     {
         "merged": "D:\\DadwalSocialMedia\\app\\build\\intermediates\\merged_res\\debug\\layout_item_chat_self.xml.flat",
         "source": "D:\\DadwalSocialMedia\\app\\src\\main\\res\\layout\\item_chat_self.xml"
+    },
+    {
+        "merged": "D:\\DadwalSocialMedia\\app\\build\\intermediates\\merged_res\\debug\\drawable_background.xml.flat",
+        "source": "D:\\DadwalSocialMedia\\app\\src\\main\\res\\drawable\\background.xml"
     },
     {
         "merged": "D:\\DadwalSocialMedia\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher.webp.flat",

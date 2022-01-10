@@ -26,4 +26,5 @@
     <string name="enter_skills">Enter Skills</string>
     <string name="user">User</string>
     <string name="enter_comment">Enter_comment</string>
+    <string name="log_out">Log Out</string>
 </resources>

@@ -13,8 +13,13 @@ import android.widget.Button
 import android.widget.ProgressBar
 import android.widget.TextView
 import android.widget.Toast
+import androidx.navigation.NavController
 import androidx.navigation.Navigation
+import androidx.navigation.Navigation.findNavController
 import androidx.navigation.findNavController
+import androidx.navigation.fragment.NavHostFragment
+import androidx.navigation.fragment.NavHostFragment.findNavController
+import androidx.navigation.fragment.findNavController
 import com.example.dadwalsocialmedia.MainActivity
 import com.example.dadwalsocialmedia.R
 import com.google.android.material.textfield.TextInputLayout
@@ -40,7 +45,7 @@ class LoginFragment : Fragment() {
 
         goToRegister.setOnClickListener {
             fragmentManager?.beginTransaction()
-                ?.replace(R.id.auth_fragment_container, RegisterFragment())
+                ?.replace(R.id.auth_fragment_container, LoginFragment())
                 ?.commit()
         }
 

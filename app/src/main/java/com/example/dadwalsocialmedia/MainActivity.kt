@@ -18,6 +18,7 @@ class MainActivity : AppCompatActivity() {
             startActivity(Intent(this, AuthenticationActivity::class.java))
         }
 
+
         UserUtils.getCurrentUser()
         setFragment(FeedFragment())
         val bottomNavigationView: BottomNavigationView = findViewById(R.id.bottomNavigationView)

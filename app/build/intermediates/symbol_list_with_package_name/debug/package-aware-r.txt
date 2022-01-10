@@ -1913,6 +1913,7 @@ drawable abc_vector_test
 drawable add_icon
 drawable avd_hide_password
 drawable avd_show_password
+drawable background
 drawable btn_checkbox_checked_mtrl
 drawable btn_checkbox_checked_to_unchecked_mtrl_animation
 drawable btn_checkbox_unchecked_mtrl
@@ -1923,6 +1924,7 @@ drawable btn_radio_on_mtrl
 drawable btn_radio_on_to_off_mtrl_animation
 drawable bubble_in
 drawable bubble_out
+drawable button_background
 drawable button_shape
 drawable chat_text_other_shape
 drawable chat_text_self_shape
@@ -1956,6 +1958,7 @@ drawable design_password_eye
 drawable design_snackbar_background
 drawable edit_text_shape
 drawable feed_icon
+drawable follow_button
 drawable googleg_disabled_color_18
 drawable googleg_standard_color_18
 drawable ic_clock_black_24dp
@@ -1972,6 +1975,7 @@ drawable ic_photo_camera_black_48dp
 drawable like_icon_filled
 drawable like_icon_outline
 drawable lock_icon
+drawable logout_button
 drawable material_cursor_drawable
 drawable material_ic_calendar_black_24dp
 drawable material_ic_clear_black_24dp
@@ -2103,6 +2107,7 @@ id action_menu_presenter
 id action_mode_bar
 id action_mode_bar_stub
 id action_mode_close_button
+id action_registerFragment_to_loginFragment
 id action_search
 id action_text
 id actions
@@ -2914,6 +2919,7 @@ string hide_bottom_view_on_scroll_behavior
 string icon_content_description
 string image_picker_provider_authority_suffix
 string item_view_role_description
+string log_out
 string login
 string material_clock_display_divider
 string material_clock_toggle_content_description
