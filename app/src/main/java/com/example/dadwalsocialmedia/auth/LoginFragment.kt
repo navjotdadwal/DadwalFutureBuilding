@@ -45,7 +45,7 @@ class LoginFragment : Fragment() {
 
         goToRegister.setOnClickListener {
             fragmentManager?.beginTransaction()
-                ?.replace(R.id.auth_fragment_container, LoginFragment())
+                ?.replace(R.id.auth_fragment_container, RegisterFragment())
                 ?.commit()
         }
 

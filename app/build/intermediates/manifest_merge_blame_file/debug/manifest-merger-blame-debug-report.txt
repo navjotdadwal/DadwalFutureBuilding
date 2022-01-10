@@ -47,8 +47,8 @@
 31        android:extractNativeLibs="false"
 32        android:icon="@mipmap/ic_launcher"
 32-->D:\DadwalSocialMedia\app\src\main\AndroidManifest.xml:9:9-43
-33        android:label="DadwalSocialMedia"
-33-->D:\DadwalSocialMedia\app\src\main\AndroidManifest.xml:10:9-42
+33        android:label="DadwalFutureBuilding"
+33-->D:\DadwalSocialMedia\app\src\main\AndroidManifest.xml:10:9-45
 34        android:roundIcon="@mipmap/ic_launcher_round"
 34-->D:\DadwalSocialMedia\app\src\main\AndroidManifest.xml:11:9-54
 35        android:supportsRtl="true"
@@ -63,16 +63,16 @@
 40            android:exported="false" />
 40-->D:\DadwalSocialMedia\app\src\main\AndroidManifest.xml:16:13-37
 41        <activity android:name="com.example.dadwalsocialmedia.auth.AuthenticationActivity" />
-41-->D:\DadwalSocialMedia\app\src\main\AndroidManifest.xml:17:9-74
+41-->D:\DadwalSocialMedia\app\src\main\AndroidManifest.xml:17:9-65
 41-->D:\DadwalSocialMedia\app\src\main\AndroidManifest.xml:17:19-62
 42        <activity android:name="com.example.dadwalsocialmedia.CommentsActivity" />
-42-->D:\DadwalSocialMedia\app\src\main\AndroidManifest.xml:18:9-63
+42-->D:\DadwalSocialMedia\app\src\main\AndroidManifest.xml:18:9-54
 42-->D:\DadwalSocialMedia\app\src\main\AndroidManifest.xml:18:19-51
 43        <activity android:name="com.example.dadwalsocialmedia.notes.AddEditNoteActivity" />
-43-->D:\DadwalSocialMedia\app\src\main\AndroidManifest.xml:19:9-72
+43-->D:\DadwalSocialMedia\app\src\main\AndroidManifest.xml:19:9-63
 43-->D:\DadwalSocialMedia\app\src\main\AndroidManifest.xml:19:19-60
 44        <activity android:name="com.example.dadwalsocialmedia.notes.MainnotesActivity" />
-44-->D:\DadwalSocialMedia\app\src\main\AndroidManifest.xml:20:9-70
+44-->D:\DadwalSocialMedia\app\src\main\AndroidManifest.xml:20:9-61
 44-->D:\DadwalSocialMedia\app\src\main\AndroidManifest.xml:20:19-58
 45        <activity
 45-->D:\DadwalSocialMedia\app\src\main\AndroidManifest.xml:21:9-29:20

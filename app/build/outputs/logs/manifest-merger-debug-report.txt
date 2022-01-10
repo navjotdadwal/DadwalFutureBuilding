@@ -176,7 +176,7 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\DE
 	android:supportsRtl
 		ADDED from D:\DadwalSocialMedia\app\src\main\AndroidManifest.xml:12:9-35
 	android:label
-		ADDED from D:\DadwalSocialMedia\app\src\main\AndroidManifest.xml:10:9-42
+		ADDED from D:\DadwalSocialMedia\app\src\main\AndroidManifest.xml:10:9-45
 		REJECTED from [com.github.thunder413:DateTimeUtils:3.0] C:\Users\DELL\.gradle\caches\transforms-3\c0b790392bea42c266e86f8788f3c6f2\transformed\jetified-DateTimeUtils-3.0\AndroidManifest.xml:13:9-41
 	android:roundIcon
 		ADDED from D:\DadwalSocialMedia\app\src\main\AndroidManifest.xml:11:9-54
@@ -195,19 +195,19 @@ ADDED from D:\DadwalSocialMedia\app\src\main\AndroidManifest.xml:14:9-16:40
 	android:name
 		ADDED from D:\DadwalSocialMedia\app\src\main\AndroidManifest.xml:15:13-47
 activity#com.example.dadwalsocialmedia.auth.AuthenticationActivity
-ADDED from D:\DadwalSocialMedia\app\src\main\AndroidManifest.xml:17:9-74
+ADDED from D:\DadwalSocialMedia\app\src\main\AndroidManifest.xml:17:9-65
 	android:name
 		ADDED from D:\DadwalSocialMedia\app\src\main\AndroidManifest.xml:17:19-62
 activity#com.example.dadwalsocialmedia.CommentsActivity
-ADDED from D:\DadwalSocialMedia\app\src\main\AndroidManifest.xml:18:9-63
+ADDED from D:\DadwalSocialMedia\app\src\main\AndroidManifest.xml:18:9-54
 	android:name
 		ADDED from D:\DadwalSocialMedia\app\src\main\AndroidManifest.xml:18:19-51
 activity#com.example.dadwalsocialmedia.notes.AddEditNoteActivity
-ADDED from D:\DadwalSocialMedia\app\src\main\AndroidManifest.xml:19:9-72
+ADDED from D:\DadwalSocialMedia\app\src\main\AndroidManifest.xml:19:9-63
 	android:name
 		ADDED from D:\DadwalSocialMedia\app\src\main\AndroidManifest.xml:19:19-60
 activity#com.example.dadwalsocialmedia.notes.MainnotesActivity
-ADDED from D:\DadwalSocialMedia\app\src\main\AndroidManifest.xml:20:9-70
+ADDED from D:\DadwalSocialMedia\app\src\main\AndroidManifest.xml:20:9-61
 	android:name
 		ADDED from D:\DadwalSocialMedia\app\src\main\AndroidManifest.xml:20:19-58
 activity#com.example.dadwalsocialmedia.MainActivity

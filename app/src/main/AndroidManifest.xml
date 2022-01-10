@@ -14,10 +14,10 @@
         <activity
             android:name=".CreatePostActivity"
             android:exported="false" />
-        <activity android:name=".auth.AuthenticationActivity"></activity>
-        <activity android:name=".CommentsActivity"></activity>
-        <activity android:name=".notes.AddEditNoteActivity"></activity>
-        <activity android:name=".notes.MainnotesActivity"></activity>
+        <activity android:name=".auth.AuthenticationActivity" />
+        <activity android:name=".CommentsActivity" />
+        <activity android:name=".notes.AddEditNoteActivity" />
+        <activity android:name=".notes.MainnotesActivity" />
         <activity
             android:name=".MainActivity"
             android:exported="true">
